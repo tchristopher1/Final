@@ -1,12 +1,7 @@
+In order to run this code you need the Spring framework through the Eclipse Marketplace, you get there by help -> eclipse marketplace and search STS and install the latest version of Spirng then retsart your eclipse.
 
-## How to try out the code
+Now that you have Spring installed you can download and extract my project.
 
-The easiest way to read through this code, try it out and play with it is to follow these instructions:
-- download the Spring Tool Suite (http://spring.io/tools/sts/all) 
-- open this project inside the Spring Tool Suite
-- find the class Application in left side Package Explorer
-- right click on class Application > Run as .. > Spring Boot App
-- check the console on the bottom for something like "Started Application in 9.06 seconds"
-- go to browser and the application should be running under http://localhost:8080/developers
+After extracting and importing the file you have to right-click on the project, go down to Run As and click on Spring Boot which you sould have near the bottom of the list.
 
-That's all. :)
+After that it will take a few seconds to load and you can click this link http://localhost:8080/developers to see the project.
